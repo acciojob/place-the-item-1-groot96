@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+div{
+   flex-wrap: wrap;
+   
+}
+.flex-container{
+    display: flex;
+}
