@@ -4,6 +4,8 @@ div{
    flex-wrap: wrap;
    
 }
-.flex-container{
+
+.holder{
     display: flex;
+    
 }
